@@ -1,0 +1,396 @@
+{
+    "initialBlank": 4,
+    "lastBlank": 0,
+    "results": [
+        {
+            "dates": "1",
+            "schedule": [
+                {
+                    "title": "기념일",
+                    "detail": "하연 생일",
+                    "member": [19],
+                    "hideMember": true
+                },
+                {
+                    "title": "방송",
+                    "detail": "주간아이돌",
+                    "time": "00:00",
+                    "member": [15]
+                },
+                {
+                    "title": "라이브",
+                    "detail": "유튜브",
+                    "time": "22:00",
+                    "member": [2,10,17]
+                }
+            ]
+        },
+        {
+            "dates": "2",
+            "schedule": [
+                {
+                    "title": "행사",
+                    "detail": "롯데 자이언츠 식전 행사",
+                    "time": "18:30",
+                    "member": [7,10]
+                },
+                {
+                    "title": "팬싸",
+                    "detail": "위드뮤 (대면, 영통)",
+                    "time": "19:30",
+                    "member": [2,5,8,9,13,14,16,19,20,22,23]
+                },
+                {
+                    "title": "행사",
+                    "detail": "여름아 놀자 in 울산",
+                    "time": "20:00",
+                    "member": [1,3,7,10,12,18,21,24]
+                }
+            ]
+        },
+        {
+            "dates": "3",
+            "schedule": [
+                {
+                    "title": "팬싸",
+                    "detail": "에버라인 (대면, 영통)",
+                    "time": "13:00",
+                    "member": [3,6,7,10,11,12,15,17,18,21,24]
+                },
+                {
+                    "title": "행사",
+                    "detail": "2024 한여름밤의 문화축제",
+                    "time": "20:00",
+                    "member": [2,5,8,9,13,14,16,19,20,22,23]
+                }
+            ]
+        },
+        {
+            "dates": "4",
+            "schedule": []
+        },
+        {
+            "dates": "5",
+            "schedule": [
+                {
+                    "title": "방송",
+                    "detail": "2024 추석 아육대 녹화"
+                },
+                {
+                    "title": "방송",
+                    "detail": "ジョンソン",
+                    "time": "21:00",
+                    "member": [1,10,16,21,23]
+                }
+            ]
+        },
+        {
+            "dates": "6",
+            "schedule": [
+                {
+                    "title": "기념일",
+                    "detail": "서연 생일",
+                    "member": [1],
+                    "hideMember": true
+                },
+                {
+                    "title": "음방",
+                    "detail": "더쇼 사전녹화",
+                    "time": "09:15",
+                    "member": [21,22,23,24],
+                    "unit": "Glow"
+                },
+                {
+                    "title": "음방",
+                    "detail": "더쇼",
+                    "time": "18:00",
+                    "member": [21,22,23,24],
+                    "unit": "Glow"
+                },
+                {
+                    "title": "라이브",
+                    "detail": "유튜브",
+                    "time": "22:00",
+                    "member": [16,20]
+                }
+            ]
+        },
+        {
+            "dates": "7",
+            "schedule": []
+        },
+        {
+            "dates": "8",
+            "schedule": []
+        },
+        {
+            "dates": "9",
+            "schedule": []
+        },
+        {
+            "dates": "10",
+            "schedule": []
+        },
+        {
+            "dates": "11",
+            "schedule": [
+                {
+                    "title": "기념일",
+                    "detail": "수민 2주년",
+                    "member": [6],
+                    "hideMember": true
+                },
+                {
+                    "title": "팬싸",
+                    "detail": "마뮤테 (영통)",
+                    "time": "18:00",
+                    "member": [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24],
+                    "hideMember": true,
+                    "unit": "S1 ~ S24"
+                }
+            ]
+        },
+        {
+            "dates": "12",
+            "schedule": []
+        },
+        {
+            "dates": "13",
+            "schedule": [
+                {
+                    "title": "행사",
+                    "detail": "2024 울산 서머 페스티벌",
+                    "time": "19:30",
+                    "member": [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24],
+                    "hideMember": true,
+                    "unit": "S1 ~ S24"
+                }
+            ]
+        },
+        {
+            "dates": "14",
+            "schedule": [
+                {
+                    "title": "라이브",
+                    "detail": "유튜브",
+                    "time": "22:00",
+                    "member": [4,22]
+                }
+            ]
+        },
+        {
+            "dates": "15",
+            "schedule": [
+                {
+                    "title": "라이브",
+                    "detail": "인스타",
+                    "time": "22:00",
+                    "member": [19]
+                }
+            ]
+        },
+        {
+            "dates": "16",
+            "schedule": [
+                {
+                    "title": "팬싸",
+                    "detail": "위드뮤 (대면, 영통)",
+                    "time": "19:30",
+                    "member": [1,3,4,6,10,16,18,19,20,21,22,23]
+                }
+            ]
+        },
+        {
+            "dates": "17",
+            "schedule": [
+                {
+                    "title": "기념일",
+                    "detail": "LOVElution 데뷔 1주년",
+                    "member": [1,2,8,9,10,13,14,15],
+                    "unit": "LOVElution"
+                },
+                {
+                    "title": "팬싸",
+                    "detail": "에버라인 (대면, 영통)",
+                    "time": "13:00",
+                    "member": [4,5,7,8,9,13,14,15,19,20,22,23]
+                }
+            ]
+        },
+        {
+            "dates": "18",
+            "schedule": [
+                {
+                    "title": "팬싸",
+                    "detail": "에버라인 (대면, 영통)",
+                    "time": "13:00",
+                    "member": [1,3,6,7,10,11,12,15,17,18,21,24],
+                    "unit": "A조"
+                }
+            ]
+        },
+        {
+            "dates": "19",
+            "schedule": []
+        },
+        {
+            "dates": "20",
+            "schedule": [
+                {
+                    "title": "공연",
+                    "detail": "홍콩 팬미팅",
+                    "time": "15:00",
+                    "member": [4,7,13,15,19,21]
+                },
+                {
+                    "title": "라이브",
+                    "detail": "유튜브",
+                    "time": "22:00",
+                    "member": [3,8]
+                }
+            ]
+        },
+        {
+            "dates": "21",
+            "schedule": [
+                {
+                    "title": "방송",
+                    "detail": "あのちゃんの電電電波♪",
+                    "time": "02:00",
+                    "member": [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24],
+                    "hideMember": true,
+                    "unit": "S1 ~ S24"
+                },
+                {
+                    "title": "라이브",
+                    "detail": "인스타",
+                    "time": "22:00",
+                    "member": [6]
+                }
+            ]
+        },
+        {
+            "dates": "22",
+            "schedule": [
+                {
+                    "title": "행사",
+                    "detail": "뉴시스 한류엑스포",
+                    "time": "15:00",
+                    "member": [1,3,6,7,10,11,12,15,17,18,21,24],
+                    "unit": "A조"
+                },
+                {
+                    "title": "행사",
+                    "detail": "케이 월드 드림 어워즈",
+                    "time": "18:30",
+                    "member": [2,4,5,8,9,13,14,16,19,20,22,23],
+                    "unit": "B조"
+                }
+            ]
+        },
+        {
+            "dates": "23",
+            "schedule": []
+        },
+        {
+            "dates": "24",
+            "schedule": []
+        },
+        {
+            "dates": "25",
+            "schedule": [
+                {
+                    "title": "기념일",
+                    "detail": "나경 2주년",
+                    "member": [7],
+                    "hideMember": true
+                },
+                {
+                    "title": "팬싸",
+                    "detail": "에버라인 (대면, 영통)",
+                    "time": "13:00",
+                    "member": [2,4,5,8,9,13,14,16,19,20,22,23],
+                    "unit": "B조"
+                },
+                {
+                    "title": "행사",
+                    "detail": "오다이바 모험왕 2024 스페셜 라이브",
+                    "time": "17:00",
+                    "member": [1,3,6,7,10,11,12,15,17,18,21,24],
+                    "unit": "A조"
+                }
+            ]
+        },
+        {
+            "dates": "26",
+            "schedule": []
+        },
+        {
+            "dates": "27",
+            "schedule": [
+                {
+                    "title": "방송",
+                    "detail": "岩井 狩野 えびちゅうの推しかるちゃー",
+                    "time": "01:29",
+                    "member": [4,9,16,19]
+                }
+            ]
+        },
+        {
+            "dates": "28",
+            "schedule": [
+                {
+                    "title": "행사",
+                    "detail": "2024 여수 썸머뮤직 페스티벌 'Y'",
+                    "time": "17:00",
+                    "member": [1,3,4,6,10,16,18,19,20,21,22,23]
+                },
+                {
+                    "title": "방송",
+                    "detail": "쇼챔피언 in 여수",
+                    "time": "18:00",
+                    "member": [1,3,4,6,10,16,18,19,20,21,22,23]
+                }
+            ]
+        },
+        {
+            "dates": "29",
+            "schedule": [
+                {
+                    "title": "행사",
+                    "detail": "IGC 2024",
+                    "time": "18:00",
+                    "member": [2,5,6,9,10,17,19,24]
+                },
+                {
+                    "title": "라이브",
+                    "detail": "인스타",
+                    "time": "22:00",
+                    "member": [20]
+                }
+            ]
+        },
+        {
+            "dates": "30",
+            "schedule": [
+                {
+                    "title": "라이브",
+                    "detail": "유튜브",
+                    "time": "22:00",
+                    "member": [10,21]
+                }
+            ]
+        },
+        {
+            "dates": "31",
+            "schedule": [
+                {
+                    "title": "행사",
+                    "detail": "2024 인천 e스포츠 챌린지",
+                    "time": "13:30",
+                    "member": [1,3,4,6,10,16,18,21]
+                }
+            ]
+        }
+    ]
+}

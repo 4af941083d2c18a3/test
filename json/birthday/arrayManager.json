@@ -1,0 +1,315 @@
+{
+    "upcoming": [
+        [2025,"S17"],
+        [2025,"S2"],
+        [2025,"S20"]
+    ],
+    "past": [
+        [2025,"S11"],
+        [2025,"S24"],
+        [2025,"S5"],
+        [2025,"S8"],
+        [2025,"S18"],
+        [2025,"S12"],
+        [2025,"S10"],
+        [2024,"S9"],
+        [2024,"S4"],
+        [2024,"S22"],
+        [2024,"S3"],
+        [2024,"S14"],
+        [2024,"S7"],
+        [2024,"S6"],
+        [2024,"S1"],
+        [2024,"S19"],
+        [2024,"S23"],
+        [2024,"S13"],
+        [2024,"S15"],
+        [2024,"S16"],
+        [2024,"S17"],
+        [2024,"S2"],
+        [2024,"S20"],
+        [2024,"S11"],
+        [2024,"S5"],
+        [2024,"S8"],
+        [2024,"S12"],
+        [2024,"S10"],
+        [2023,"S9"],
+        [2023,"S4"],
+        [2023,"S3"],
+        [2023,"S14"],
+        [2023,"S7"],
+        [2023,"S6"],
+        [2023,"S1"],
+        [2023,"S13"],
+        [2023,"S2"],
+        [2023,"S5"],
+        [2023,"S8"],
+        [2022,"S3"]
+    ],
+    "data": {
+        "S1": {
+            "order": 1,
+            "fileName": "seoyeon",
+            "koreanName": "윤서연",
+            "color": {
+                "bgColor": "22aeff",
+                "textColor": "fff"
+            },
+            "month": 8,
+            "day": 6
+        },
+        "S2": {
+            "order": 2,
+            "fileName": "hyerin",
+            "koreanName": "정혜린",
+            "color": {
+                "bgColor": "9200ff",
+                "textColor": "fff"
+            },
+            "month": 4,
+            "day": 12
+        },
+        "S3": {
+            "order": 3,
+            "fileName": "jiwoo",
+            "koreanName": "이지우",
+            "color": {
+                "bgColor": "fff800",
+                "textColor": "000"
+            },
+            "month": 10,
+            "day": 24
+        },
+        "S4": {
+            "order": 4,
+            "fileName": "chaeyeon",
+            "koreanName": "김채연",
+            "color": {
+                "bgColor": "98f21d",
+                "textColor": "000"
+            },
+            "month": 12,
+            "day": 4
+        },
+        "S5": {
+            "order": 5,
+            "fileName": "yooyeon",
+            "koreanName": "김유연",
+            "color": {
+                "bgColor": "db0c74",
+                "textColor": "fff"
+            },
+            "month": 2,
+            "day": 9
+        },
+        "S6": {
+            "order": 6,
+            "fileName": "soomin",
+            "koreanName": "김수민",
+            "color": {
+                "bgColor": "fc83a4",
+                "textColor": "fff"
+            },
+            "month": 10,
+            "day": 3
+        },
+        "S7": {
+            "order": 7,
+            "fileName": "nakyoung",
+            "koreanName": "김나경",
+            "color": {
+                "bgColor": "6799a0",
+                "textColor": "fff"
+            },
+            "month": 10,
+            "day": 13
+        },
+        "S8": {
+            "order": 8,
+            "fileName": "yubin",
+            "koreanName": "공유빈",
+            "color": {
+                "bgColor": "ffe3e2",
+                "textColor": "000"
+            },
+            "month": 2,
+            "day": 3
+        },
+        "S9": {
+            "order": 9,
+            "fileName": "kaede",
+            "koreanName": "카에데",
+            "color": {
+                "bgColor": "ffc935",
+                "textColor": "000"
+            },
+            "month": 12,
+            "day": 20
+        },
+        "S10": {
+            "order": 10,
+            "fileName": "dahyun",
+            "koreanName": "서다현",
+            "color": {
+                "bgColor": "ff9ad6",
+                "textColor": "000"
+            },
+            "month": 1,
+            "day": 8
+        },
+        "S11": {
+            "order": 11,
+            "fileName": "kotone",
+            "koreanName": "코토네",
+            "color": {
+                "bgColor": "ffde00",
+                "textColor": "000"
+            },
+            "month": 3,
+            "day": 10
+        },
+        "S12": {
+            "order": 12,
+            "fileName": "yeonji",
+            "koreanName": "곽연지",
+            "color": {
+                "bgColor": "5974ff",
+                "textColor": "fff"
+            },
+            "month": 1,
+            "day": 8
+        },
+        "S13": {
+            "order": 13,
+            "fileName": "nien",
+            "koreanName": "니엔",
+            "color": {
+                "bgColor": "ff953f",
+                "textColor": "fff"
+            },
+            "month": 6,
+            "day": 2
+        },
+        "S14": {
+            "order": 14,
+            "fileName": "sohyun",
+            "koreanName": "박소현",
+            "color": {
+                "bgColor": "1222b5",
+                "textColor": "fff"
+            },
+            "month": 10,
+            "day": 13
+        },
+        "S15": {
+            "order": 15,
+            "fileName": "xinyu",
+            "koreanName": "신위",
+            "color": {
+                "bgColor": "d51313",
+                "textColor": "fff"
+            },
+            "month": 5,
+            "day": 25
+        },
+        "S16": {
+            "order": 16,
+            "fileName": "mayu",
+            "koreanName": "마유",
+            "color": {
+                "bgColor": "fe8e76",
+                "textColor": "fff"
+            },
+            "month": 5,
+            "day": 12
+        },
+        "S17": {
+            "order": 17,
+            "fileName": "lynn",
+            "koreanName": "린",
+            "color": {
+                "bgColor": "ac62b7",
+                "textColor": "fff"
+            },
+            "month": 4,
+            "day": 12
+        },
+        "S18": {
+            "order": 18,
+            "fileName": "joobin",
+            "koreanName": "주빈",
+            "color": {
+                "bgColor": "b7f54c",
+                "textColor": "000"
+            },
+            "month": 1,
+            "day": 16
+        },
+        "S19": {
+            "order": 19,
+            "fileName": "hayeon",
+            "koreanName": "정하연",
+            "color": {
+                "bgColor": "52d9bb",
+                "textColor": "000"
+            },
+            "month": 8,
+            "day": 1
+        },
+        "S20": {
+            "order": 20,
+            "fileName": "shion",
+            "koreanName": "박시온",
+            "color": {
+                "bgColor": "ff428a",
+                "textColor": "fff"
+            },
+            "month": 4,
+            "day": 3
+        },
+        "S21": {
+            "order": 21,
+            "fileName": "chaewon",
+            "koreanName": "김채원",
+            "color": {
+                "bgColor": "c7a3e0",
+                "textColor": "fff"
+            },
+            "month": 5,
+            "day": 2
+        },
+        "S22": {
+            "order": 22,
+            "fileName": "sullin",
+            "koreanName": "설린",
+            "color": {
+                "bgColor": "7bba8d",
+                "textColor": "fff"
+            },
+            "month": 11,
+            "day": 30
+        },
+        "S23": {
+            "order": 23,
+            "fileName": "seoah",
+            "koreanName": "서아",
+            "color": {
+                "bgColor": "cff3ff",
+                "textColor": "000"
+            },
+            "month": 6,
+            "day": 11
+        },
+        "S24": {
+            "order": 24,
+            "fileName": "jiyeon",
+            "koreanName": "지연",
+            "color": {
+                "bgColor": "ffab62",
+                "textColor": "000"
+            },
+            "month": 2,
+            "day": 13
+        }
+    }
+}
